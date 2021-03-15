@@ -10,5 +10,7 @@ MIT
 
 ## Contact Information
 Latifah Lillie
-email: queen1892@gmail.com
+Email: queen1892@gmail.com
+
+
 Linkedin: www.linkedin.com/in/latifah-lillie
