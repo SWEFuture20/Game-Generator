@@ -7,3 +7,8 @@ The technologies that were used in this project were HTML, CSS, jQuery, Third pa
 
 ## License
 MIT
+
+## Contact Information
+Latifah Lillie
+email: queen1892@gmail.com
+Linkedin: www.linkedin.com/in/latifah-lillie
