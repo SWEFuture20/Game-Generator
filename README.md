@@ -5,3 +5,5 @@ In this app, a person will enter their the year that they were born in a board g
 ## Technologies
 The technologies that were used in this project were HTML, CSS, jQuery, Third party API (Board Game Atlas).
 
+## License
+MIT
