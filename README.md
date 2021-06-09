@@ -16,4 +16,4 @@ Latifah Lillie
 
 Email: queen1892@gmail.com
 
-Linkedin: [Latifah Lillie] (www.linkedin.com/in/latifah-lillie)
+Linkedin: [Latifah Lillie](www.linkedin.com/in/latifah-lillie)
