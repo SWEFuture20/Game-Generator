@@ -5,14 +5,15 @@ In this app, a person will enter their the year that they were born in a board g
 ## Technologies
 The technologies that were used in this project were HTML, CSS, jQuery, Third party API (Board Game Atlas).
 
+## Deployed Link
+- [Game Generator](https://swefuture20.github.io/Game-Generator/)
+
 ## License
 MIT
 
 ## Contact Information
 Latifah Lillie
 
-
 Email: queen1892@gmail.com
 
-
-Linkedin: www.linkedin.com/in/latifah-lillie
+Linkedin: [Latifah Lillie] (www.linkedin.com/in/latifah-lillie)
